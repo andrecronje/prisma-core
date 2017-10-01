@@ -61,3 +61,6 @@ You will need a separate directory with the checkout of the branch `gh-pages` ca
 sphinx-apidoc -f -o docs/ prisma/
 sphinx-build -E -b html ../prisma-gh-pages/ docs/
 ```
+# Licensing and usage
+
+The algorithm implemented by this software is protected by US patents 9646029, 9529923 and 9390154. Licensing agreement with the respective patent holders shall be obtained before deployment. These patents are valid in US only.
